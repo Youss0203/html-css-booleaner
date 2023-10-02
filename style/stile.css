@@ -4,7 +4,9 @@ header{
     background-size: 30%;
     background-color: cornflowerblue;
 }
-
+.intestazione{
+    height: 100px;
+}
 .autore{
     color: cornflowerblue;
 }
@@ -23,7 +25,7 @@ header{
 }
 
 .lista{
-   padding-left: 0px;
+   padding-left: 18px;
 
 }
 
@@ -33,5 +35,35 @@ header{
 }
 
 .colore-riga-azzurro{
-    background-color: #007fff;
+    background-color: #abcdef;
+}
+table{
+    border-spacing: 0px;
+    text-align: left;
+}
+
+.primo,.secondo{
+width: 25%;
+}
+.terzo{
+    width: 50%;
+}
+h2{
+    color:grey;
+    font-size:20px;
+}
+
+.monitor{
+    color:white;
+    font-size: 20px;
+    background-image: url(../image/monitor.jpg);
+    width: 270px;
+    height: 200px;
+}
+.graph{
+    color:white;
+    font-size: 20px;
+    background-image: url(../image/graph.jpg);
+    width: 270px;
+    height: 200px;
 }
