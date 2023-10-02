@@ -1,0 +1,18 @@
+.immagine-superiore{
+    background-color: cornflowerblue;
+    height: 100px;
+}
+
+.autore{
+    color: cornflowerblue;
+}
+
+.autore-articolo{
+    color: gray
+}
+.data-articolo{
+    font-size: 10px;
+}
+.protagonisti-foto{
+    font-size:7px;
+}
