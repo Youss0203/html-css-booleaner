@@ -1,6 +1,8 @@
-.immagine-superiore{
+header{
+
+    background-image: url(../image/pattern.png);
+    background-size: 30%;
     background-color: cornflowerblue;
-    height: 100px;
 }
 
 .autore{
@@ -15,4 +17,21 @@
 }
 .protagonisti-foto{
     font-size:7px;
+}
+.sottolineatura{
+    background-color: yellow;
+}
+
+.lista{
+   padding-left: 0px;
+
+}
+
+.colore-riga-blu{
+    background-color: cornflowerblue;
+    color:white;
+}
+
+.colore-riga-azzurro{
+    background-color: #007fff;
 }
